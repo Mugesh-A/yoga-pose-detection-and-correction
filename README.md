@@ -1,5 +1,5 @@
 <h1>Description</h1>
-Welcome to my new deep learning project, "Yoga Pose Detection and Correction." As the name indicates, this project can identify the yoga pose you are performing in front of your webcam.<br>
+Welcome to my new deep learning project, "Yoga Pose Detection and Correction." As the name indicates, this project can identify the yoga pose you are performing using image sensor.<br>
 
 The project consists of three Python scripts:<br>
 
