@@ -37,7 +37,7 @@ To execute the model and see predictions, run <b>python inference.py</b>. A new 
   
 <h1>Video</h1>
 
-Video link: [Watch here](https://youtu.be/l1M0AGILHMw?si=OFN1yRjaphs0uN9W)<br>
+Video link: [Watch here](https://www.youtube.com/watch?v=6w3g_33wMOs)<br>
 
 ---
 
